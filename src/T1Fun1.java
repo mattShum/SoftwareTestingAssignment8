@@ -1,5 +1,5 @@
 
-public class Function {
+public class T1Fun1 {
 	
 	public static int Fun1(int x, int k){
 		int i = 0;
