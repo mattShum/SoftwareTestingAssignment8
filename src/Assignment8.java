@@ -6,7 +6,7 @@ public class Assignment8 {
 		int x = 1;
 		int k = 1;
 		
-		System.out.println("The result is: " + Function.Fun1(x, k));		
+		System.out.println("The result is: " + T1Fun1.Fun1(x, k));		
 	}
 
 }
