@@ -34,9 +34,9 @@ public class ADCov {
 	 * 3, 7
 	 */
 	void ADC2() {
-		System.out.println("Test Case ADC 1 result should be: -1350545711");
+		System.out.println("Test Case ADC 2 result should be: -1350545711");
 		int result = T1Fun1.Fun1(21, 21);
-		assertEquals(-1350545711, result, "ADC 1 result should be -1350545711");
+		assertEquals(-1350545711, result, "ADC 2 result should be -1350545711");
 		System.out.println("Result is: " + result);
 	}
 }
